@@ -2,7 +2,7 @@ x=input()
 y=['a','b']
 for i in x:
   if i not in y:
-     print('string not accepted')
+     print('string not valid')
      exit()
 
 p=0
