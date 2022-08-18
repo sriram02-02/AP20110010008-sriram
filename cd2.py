@@ -18,7 +18,7 @@ for i in x:
            p=2
    elif p==2:
           if i=='a':
-            p=3
+            p=1
           else:
             p=4
    elif p==3:
