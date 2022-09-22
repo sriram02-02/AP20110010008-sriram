@@ -1,7 +1,0 @@
-int main()
-{
-a=10;
-b=8;
-printf();
-return 0;
-}
